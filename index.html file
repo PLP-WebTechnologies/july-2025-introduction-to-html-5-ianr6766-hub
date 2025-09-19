@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GreenTech Solutions - Sustainable Future</title>
+  <meta name="description" content="Learn how GreenTech Solutions promotes sustainability with renewable energy, eco-friendly practices, and innovative technology for a greener future.">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>GreenTech Solutions</h1>
+    <p>Innovating for a sustainable future</p>
+  </header>
+
+  <!-- Navigation -->
+  <nav aria-label="Main navigation">
+    <ul>
+      <li><a href="#renewable">Renewable Energy</a></li>
+      <li><a href="#innovation">Innovation</a></li>
+      <li><a href="#about">About Us</a></li>
+    </ul>
+  </nav>
+
+  <!-- Main Content -->
+  <main>
+    <!-- Section 1 -->
+    <section id="renewable">
+      <h2>Renewable Energy</h2>
+      <article>
+        <h3>Solar Power</h3>
+        <p>We provide affordable and efficient solar panel systems to reduce carbon footprints worldwide.</p>
+        <img src="solar.jpg" alt="Solar panels installed on a rooftop under bright sunlight">
+      </article>
+      <article>
+        <h3>Wind Energy</h3>
+        <p>Our wind farms deliver clean, renewable electricity to thousands of homes every year.</p>
+        <img src="wind.jpg" alt="Wind turbines spinning in a green valley with mountains in the background">
+      </article>
+    </section>
+
+    <!-- Section 2 -->
+    <section id="innovation">
+      <h2>Innovation</h2>
+      <p>GreenTech invests in research and development to create technologies that balance progress with environmental responsibility.</p>
+    </section>
+
+    <!-- Section 3 -->
+    <section id="about">
+      <h2>About Us</h2>
+      <p>Founded in 2020, GreenTech Solutions is dedicated to advancing sustainability through renewable energy and eco-friendly practices. Our mission is to make the planet cleaner for future generations.</p>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 GreenTech Solutions | <a href="mailto:info@greentech.com">Contact Us</a></p>
+  </footer>
+</body>
+</html>
